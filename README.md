@@ -1,5 +1,6 @@
 # apigw-training
 
+```
 INFO    2017/01/12 10:32:16.484 [ModalContext] [main] Starting environmentalization of '1' entities...
 INFO    2017/01/12 10:32:16.486 [ModalContext] [main] Environmentalizing entity 'Service Handler for 'Calculator'' type 'WSFilter' :-
 INFO    2017/01/12 10:32:16.489 [ModalContext] [main] webService[0] = Calculator (reference to type 'WebService')
@@ -23,3 +24,4 @@ ERROR   2017/01/12 10:32:18.825 [ModalContext] [main] No value to substitute for
 ERROR   2017/01/12 10:32:18.825 [ModalContext] [main] No value to substitute for ${env.PORT.OAUTH2.SERVICES}
 ERROR   2017/01/12 10:32:18.830 [ModalContext] [main] No value to substitute for ${env.OAUTH.CLIENT}
 ERROR   2017/01/12 10:32:18.831 [ModalContext] [main] No value to substitute for ${env.PORT.OAUTH2.CLIENT}
+```
